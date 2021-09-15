@@ -1,2 +1,2 @@
-# My-own-financial-dashboard
+# My-financial-dashboard
 Financial dashboard with Power BI
